@@ -1,2 +1,2 @@
 # javaprograms
-This repository is for java programs
+This repository is for innovapath java programs
